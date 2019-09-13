@@ -15,14 +15,16 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 Each team member should edit to add their info below and be able to merge, pull and push changes successfully  by the end of lab.  WHen you push your code to github, you will see a Passing Badge on the README page of the repo if your code runs successfully in `werker`.
 
 
-Team [add number]
+Team 08
 
-Name:
-email: 
-netid:
-github username:
-Department:
-Background:
+Name:machao deng
+email: md369@duke.edu
+netid:md369
+github username:machaodeng
+Department:stat
+Background:math(applied)
+
+
 
 
 ## Logistic Regression in R
